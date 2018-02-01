@@ -2,9 +2,9 @@
   "name": "quikfix",
   "version": "1.0.0",
   "description": "This sample demonstrates how to send a Firebase Cloud Messaging (FCM) notification from a Realtime Database triggered Function. The sample also features a Web UI to experience the FCM notification.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-  "start": "node index.js"
+  "start": "node app.js"
 },
   "repository": {
     "type": "git",
