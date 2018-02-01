@@ -1,0 +1,19 @@
+{
+  "name": "quikfix",
+  "version": "1.0.0",
+  "description": "This sample demonstrates how to send a Firebase Cloud Messaging (FCM) notification from a Realtime Database triggered Function. The sample also features a Web UI to experience the FCM notification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tthrelk93/stripeconnectserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tthrelk93/QuikFix/issues"
+  },
+  "homepage": "https://github.com/tthrelk93/stripeconnectserver.git"
+}
